@@ -12,7 +12,7 @@ A dedicated team player and quick learner, I am highly motivated with a strong d
 ## Current Projects and Learning Focus
 👩‍💻 I'm currently working on my Udemy Web Development course final project
 
-🧠 learning QA, Web Dev and finishing my First Year as a CS student
+🧠 Learning QA, Web Dev and finishing my First Year as a CS student
 
 🤔 Looking for help with hands-on experience projects and tips on how to kick-start my career
 
@@ -27,10 +27,7 @@ A dedicated team player and quick learner, I am highly motivated with a strong d
 
 ## 🛠 Skills
 Under Development
-<!-- | Property | Data |
-|----------|------|
-| ** Hello | text |
---->
+
 
 <!---
 Raz-y/Raz-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
