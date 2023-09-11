@@ -29,6 +29,7 @@ A dedicated team player and quick learner, I am highly motivated with a strong d
 Under Development
 | Property | Data |
 |----------|------|
+| ** Hello | text |
 
 <!---
 Raz-y/Raz-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
