@@ -4,7 +4,7 @@
 
 ## About Me
 
-First-year Computer Science student at the Open University of Israel with a current role as a Help Desk Specialist, actively seeking opportunities to gain experience and knowledge. 
+Second-year Computer Science student at the Open University of Israel with a current role as a Help Desk Specialist, actively seeking opportunities to gain experience and knowledge. 
 
 A dedicated team player and quick learner, I am highly motivated with a strong desire to continuously learn, improve, and kick-start my career.
 
