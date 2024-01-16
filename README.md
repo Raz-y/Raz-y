@@ -23,58 +23,53 @@
 
 ## 🛠 Skills
 
-### Programming & Frameworks
-
-- **![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), HTML, CSS**: Developing skills in front-end technologies. Actively engaged in projects and coursework to enhance proficiency.
-- **Java**: Good understanding through academic coursework and personal projects.
-- **Node.js, SQL, MongoDB**: Actively learning and applying in backend development projects.
-- **React (Learning Next)**: Planning to learn to enhance full-stack development skills.
-
-### Tools
-- **ServiceNow, IDM, RDP tools**: Experienced in using these tools in a professional IT support setting.
-- **Git, GitHub**: Gaining practical experience in version control for software development.
-- **VMware**: Basic familiarity gained through coursework and self-study.
-- **REST APIs**: Understanding of creating and integrating APIs in web projects.
-
-### Systems
-- **Windows 10, Active Directory (AD), Microsoft O365**: Proficient through professional IT support experience.
-- **Linux**: Basic familiarity and continuous self-learning.
-
-  ### Additional Coursework and Skills
-- **IT & System Management**: Comprehensive training in hardware components, VMware Virtualization, and TCP/IP networking. Acquired skills in LAN/WAN, OSI model, subnetting, IP addressing, and basic configurations of Cisco switches and routers.
-- **Windows Systems**: Proficient in installation and management of MS Windows 10/7, servers & services (2012/16/19), including AD, GPO, OU, DHCP, DNS, VPN, IIS, ESXi, Radius, Print server, NAS & SAN, Exchange, Backup Servers.
-- **Linux Essentials**: Gained foundational knowledge and basic scripting skills in Linux environments.
-- **UX Design**: Certificate from Netcraft Academy in User Experience Design, covering cognitive processes, preliminary research, information architecture, mobile usability tests, and complex systems.
-
-
-
-
 ### Technical Skills
 
 #### Programming Languages
-- **JavaScript, HTML, CSS**
-- **Java**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- **JavaScript, HTML, CSS**: Developing front-end skills through projects and coursework.
+- **Java**: Good understanding from academic and personal projects.
 
 #### Frameworks and Libraries
-- **Node.js** (Backend Development)
-- **React** (Learning Next)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **Node.js**: Applying in backend development learnings.
+- **React** (Learning Next): Enriching full-stack development capabilities.
 
 #### Database Technologies
-- **SQL, MongoDB**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **SQL, MongoDB**: Gaining experience in database management and operations.
 
 ### Tools and Systems
 
 #### Development Tools
-- **Git, GitHub**
-- **VMware**
-- **REST APIs**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=swagger&logoColor=white)
+- **Git, GitHub**: Acquiring version control skills in software projects.
+- **VMware**: Basic knowledge from coursework and self-study.
+- **REST APIs**: Learning to create and integrate in web projects.
 
 #### Operating Systems
-- **Windows 10, Active Directory (AD), Microsoft O365**
-- **Linux** (Basic familiarity)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Windows 10, Active Directory (AD), Microsoft O365**: Proficient from IT support experience.
+- **Linux**: Building foundational knowledge and skills.
 
 ### Additional Skills and Coursework
-- [Coursework and skills from IT & System Management and UX Design]
+- **IT & System Management**: Hardware, VMware, TCP/IP networking.
+- **Windows Systems**: Server installation, management, and related services.
+- **Linux Essentials**: Basics and scripting.
+- **UX Design**: Certification covering UX principles and methodologies.
+
+
+## Let's Connect!
+I'm always open to collaborating on projects and innovative ideas. If you're interested in working together or just want to chat tech, feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/raz-yehiel/) or check out my [GitHub portfolio](https://github.com/Raz-y).
 
 
 
