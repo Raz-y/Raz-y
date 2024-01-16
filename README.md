@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 I'm a second-year Computer Science student at the Open University of Israel, passionate about technologies and opportunities they bring. With a Tier 2 Help Desk Specialist background, I bring strong problem-solving, customer service, and collaborative skills to the table.
+🎓 I'm a second-year Computer Science student at the Open University of Israel, passionate about the technologies and the opportunities they bring. With a Tier 2 Help Desk Specialist background, I bring strong problem-solving, customer service, and collaborative skills to the table.
 
 👩‍💻 I thrive in dynamic environments and am excited to contribute my technical knowledge in a challenging role.
 
