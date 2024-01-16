@@ -9,7 +9,7 @@
 ## Current Projects and Learning Focus
 - Completed a comprehensive Web Development course, acquiring strong skills in HTML, CSS, JavaScript, and more.
 - Recently completed a course in QA methodologies, gaining valuable insights into software testing and quality assurance.
-- Currently exploring Backend Development through a structured roadmap from [roadmap.sh](https://roadmap.sh/backend), enhancing my knowledge of server-side technologies, databases, and API integration.
+- Currently exploring Backend Development through a structured [Backend Developer Roadmap]([https://roadmap.sh/backend](https://roadmap.sh/backend)), enhancing my knowledge of server-side technologies, databases, and API integration.
 - Continuing my Computer Science degree with a strong emphasis on practical, hands-on projects to apply theoretical knowledge in real-world scenarios.
 
 ## I'm Seeking
