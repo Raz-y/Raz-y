@@ -1,4 +1,4 @@
-# Hi, I'm Raz Yehiel! 👋
+# Hi, I'm Raz! 👋
 
 ## About Me
 
@@ -19,7 +19,7 @@
 
 ## 🔗 Connect With Me
 - [Portfolio](https://github.com/Raz-y)
-- [LinkedIn](www.linkedin.com/in/raz-yehiel)
+- [LinkedIn](https://www.linkedin.com/in/raz-yehiel/)
 
 ## 🛠 Skills
 - Programming & Frameworks (In Progress): JavaScript, HTML, CSS, Java, Node.js, SQL, MongoDB.
