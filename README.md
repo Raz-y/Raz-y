@@ -49,6 +49,35 @@
 
 
 
+### Technical Skills
+
+#### Programming Languages
+- **JavaScript, HTML, CSS**
+- **Java**
+
+#### Frameworks and Libraries
+- **Node.js** (Backend Development)
+- **React** (Learning Next)
+
+#### Database Technologies
+- **SQL, MongoDB**
+
+### Tools and Systems
+
+#### Development Tools
+- **Git, GitHub**
+- **VMware**
+- **REST APIs**
+
+#### Operating Systems
+- **Windows 10, Active Directory (AD), Microsoft O365**
+- **Linux** (Basic familiarity)
+
+### Additional Skills and Coursework
+- [Coursework and skills from IT & System Management and UX Design]
+
+
+
 
 
 
