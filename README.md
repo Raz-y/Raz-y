@@ -1,32 +1,31 @@
-
-# Hi, I'm Raz! 👋
-
+# Hi, I'm Raz Yehiel! 👋
 
 ## About Me
 
-Second-year Computer Science student at the Open University of Israel with a current role as a Help Desk Specialist, actively seeking opportunities to gain experience and knowledge. 
+🎓 I'm a second-year Computer Science student at the Open University of Israel, passionate about technologies and opportunities they bring. With a Tier 2 Help Desk Specialist background, I bring strong problem-solving, customer service, and collaborative skills to the table.
 
-A dedicated team player and quick learner, I am highly motivated with a strong desire to continuously learn, improve, and kick-start my career.
-
+👩‍💻 I thrive in dynamic environments and am excited to contribute my technical knowledge in a challenging role.
 
 ## Current Projects and Learning Focus
-👩‍💻 I'm currently working on my Udemy Web Development course final project
+- Completed a comprehensive Web Development course, acquiring strong skills in HTML, CSS, JavaScript, and more.
+- Recently completed a course in QA methodologies, gaining valuable insights into software testing and quality assurance.
+- Currently exploring Backend Development through a structured roadmap from [roadmap.sh](https://roadmap.sh/backend), enhancing my knowledge of server-side technologies, databases, and API integration.
+- Continuing my Computer Science degree with a strong emphasis on practical, hands-on projects to apply theoretical knowledge in real-world scenarios.
 
-🧠 Learning QA, Web Dev and finishing my First Year as a CS student
+## I'm Seeking
+- Opportunities to apply my technical skills in real-world projects.
+- Guidance and mentorship in kick-starting my tech career.
+- Collaborations and networking with professionals in the tech industry.
 
-🤔 Looking for help with hands-on experience projects and tips on how to kick-start my career
-
- 
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Raz-y)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raz-yehiel)
-
-
+## 🔗 Connect With Me
+- [Portfolio](https://github.com/Raz-y)
+- [LinkedIn](www.linkedin.com/in/raz-yehiel)
 
 ## 🛠 Skills
-Under Development
+- Programming & Frameworks (In Progress): JavaScript, HTML, CSS, Java, Node.js, SQL, MongoDB.
+- Tools: ServiceNow, IDM, RDP tools; Familiarity with VMware, Git, GitHub, REST APIs.
+- Systems: Windows 10, Active Directory (AD), Microsoft O365; Familiarity with Linux.
+
 
 
 <!---
