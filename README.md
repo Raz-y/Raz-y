@@ -24,8 +24,8 @@
 ## 🛠 Skills
 
 ### Programming & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **JavaScript, HTML, CSS**: Developing skills in front-end technologies. Actively engaged in projects and coursework to enhance proficiency.
+
+- **![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), HTML, CSS**: Developing skills in front-end technologies. Actively engaged in projects and coursework to enhance proficiency.
 - **Java**: Good understanding through academic coursework and personal projects.
 - **Node.js, SQL, MongoDB**: Actively learning and applying in backend development projects.
 - **React (Learning Next)**: Planning to learn to enhance full-stack development skills.
