@@ -22,9 +22,33 @@
 - [LinkedIn](https://www.linkedin.com/in/raz-yehiel/)
 
 ## 🛠 Skills
-- Programming & Frameworks (In Progress): JavaScript, HTML, CSS, Java, Node.js, SQL, MongoDB.
-- Tools: ServiceNow, IDM, RDP tools; Familiarity with VMware, Git, GitHub, REST APIs.
-- Systems: Windows 10, Active Directory (AD), Microsoft O365; Familiarity with Linux.
+
+### Programming & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **JavaScript, HTML, CSS**: Developing skills in front-end technologies. Actively engaged in projects and coursework to enhance proficiency.
+- **Java**: Good understanding through academic coursework and personal projects.
+- **Node.js, SQL, MongoDB**: Actively learning and applying in backend development projects.
+- **React (Learning Next)**: Planning to learn to enhance full-stack development skills.
+
+### Tools
+- **ServiceNow, IDM, RDP tools**: Experienced in using these tools in a professional IT support setting.
+- **Git, GitHub**: Gaining practical experience in version control for software development.
+- **VMware**: Basic familiarity gained through coursework and self-study.
+- **REST APIs**: Understanding of creating and integrating APIs in web projects.
+
+### Systems
+- **Windows 10, Active Directory (AD), Microsoft O365**: Proficient through professional IT support experience.
+- **Linux**: Basic familiarity and continuous self-learning.
+
+  ### Additional Coursework and Skills
+- **IT & System Management**: Comprehensive training in hardware components, VMware Virtualization, and TCP/IP networking. Acquired skills in LAN/WAN, OSI model, subnetting, IP addressing, and basic configurations of Cisco switches and routers.
+- **Windows Systems**: Proficient in installation and management of MS Windows 10/7, servers & services (2012/16/19), including AD, GPO, OU, DHCP, DNS, VPN, IIS, ESXi, Radius, Print server, NAS & SAN, Exchange, Backup Servers.
+- **Linux Essentials**: Gained foundational knowledge and basic scripting skills in Linux environments.
+- **UX Design**: Certificate from Netcraft Academy in User Experience Design, covering cognitive processes, preliminary research, information architecture, mobile usability tests, and complex systems.
+
+
+
+
 
 
 
