@@ -2,20 +2,22 @@
 
 ## About Me
 
-🎓 I'm a second-year Computer Science student at the Open University of Israel, passionate about technologies and the opportunities they bring. With a Tier 2 Help Desk Specialist background, I bring strong problem-solving, customer service, and collaborative skills to the table.
+🎓 I'm a third-year Computer Science student at the Open University of Israel, passionate about leveraging technology to solve real-world problems. With a solid background in Tier 2 Help Desk and Tier 1 Applicative Support, I excel in problem-solving, customer service, and collaboration.
 
-👩‍💻 I thrive in dynamic environments and am excited to contribute my technical knowledge in a challenging role.
+👨‍💻 My current focus is on mastering Backend Development and DevOps, or as I like to call it, "BackOps"—because who doesn't love a good acronym? I thrive in dynamic, technology-filled environments.
 
 ## Current Projects and Learning Focus
-- Completed a comprehensive Web Development course, acquiring strong skills in HTML, CSS, JavaScript, and more.
-- Recently completed a course in QA methodologies, gaining valuable insights into software testing and quality assurance.
-- Currently exploring Backend Development through a structured [Backend Developer Roadmap](https://roadmap.sh/backend), enhancing my knowledge of server-side technologies, databases, and API integration.
-- Continuing my Computer Science degree with a strong emphasis on practical, hands-on projects to apply theoretical knowledge in real-world scenarios.
+- [Documenting my journey](https://medium.com/@raz.devit) into **Backend Development** with a focus on **Golang**, inspired by the [Backend Developer Roadmap](https://roadmap.sh/backend).
+- Exploring DevOps practices to integrate them with backend development, aiming to build robust, scalable applications.
+- Continuing my Computer Science degree with an emphasis on practical, hands-on projects to solidify my understanding of complex systems.
+
+## Blogging
+- I write about the intersection of technology and fitness on my blog, covering topics like backend development, DevOps, and how to leverage tech to enhance your fitness routine -	[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@raz.devit)
 
 ## I'm Seeking
-- Opportunities to apply my technical skills in real-world projects.
-- Guidance and mentorship in kick-starting my tech career.
-- Collaborations and networking with professionals in the tech industry.
+- Opportunities to apply my backend and DevOps skills in impactful projects.
+- Mentorship and guidance in advancing my career in Backend Development and DevOps.
+- Collaborations with like-minded professionals who are passionate about tech and innovation.
 
 ## 🔗 Connect With Me
 - [Portfolio](https://github.com/Raz-y)
@@ -25,54 +27,51 @@
 
 ### Technical Skills
 
-#### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-go-007396?style=flat-square&logo=go&logoColor=white)
-- **JavaScript, HTML, CSS**: Developing front-end skills through projects and coursework.
-- **Java**: Good understanding from academic and personal projects.
+#### Core Languages and Frameworks
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
-#### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- **Node.js**: Applying in backend development learnings.
-- **React** (Learning Next): Enriching full-stack development capabilities.
+
+- **Go**: Focused on learning and building backend systems. I'm actively working on projects and documenting my progress, but still in the learning phase.
+- **JavaScript, HTML, CSS**: Solid foundation from coursework and projects. Actively improving through hands-on projects to deepen my understanding of advanced concepts.
+- **C**: Studied as part of my Computer Science coursework. I have a good understanding of basic concepts. [Check out my project repository](https://github.com/Raz-y/My-CS-Degree-Progress/tree/master/Second%20Year/Systems%20Programming%20Lab/Final%20Project/Assembler).
+- **Java**: Acquired foundational knowledge through coursework at university.
+
+#### Frameworks and Tools
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+- **Node.js**: Enhancing backend development skills. Comfortable building basic APIs and server-side applications but continuing to learn more advanced concepts.
+- **Git & GitHub**: I use Git and GitHub daily for managing my projects and contributing to group work.
 
 #### Database Technologies
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **SQL, MongoDB**: Gaining experience in database management and operations.
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-### Tools and Systems
+- **SQL, MongoDB**: Gaining experience in managing and operating databases.
 
-#### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=swagger&logoColor=white)
-- **Git, GitHub**: Acquiring version control skills in software projects.
-- **VMware**: Basic knowledge from coursework and self-study.
-- **REST APIs**: Learning to create and integrate in web projects.
 
 #### Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- **Windows 10, Active Directory (AD), Microsoft O365**: Proficient from IT support experience.
-- **Linux**: Building foundational knowledge and skills.
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
+- **Windows 10, Active Directory (AD), Microsoft O365**: IT support experience. I have extensive experience troubleshooting and managing these environments.
+- **Linux**: Building foundational knowledge in system operations. Comfortable with basic commands and scripting, but looking to deepen my expertise.
 
 ### Additional Skills and Coursework
-- **IT & System Management**: Hardware, VMware, TCP/IP networking.
-- **Windows Systems**: Server installation, management, and related services.
-- **Linux Essentials**: Basics and scripting.
-- **UX Design**: Certification covering UX principles and methodologies.
+- **IT & System Management**: Hands-on experience with hardware, VMware, and TCP/IP networking, primarily from my work as a Help Desk Specialist.
+- **Windows Systems**: Experience in server installation, management, and related services from both academic coursework and professional work.
+- **Linux Essentials**:  Basic knowledge, focusing on developing scripting and command-line proficiency.
+- **UX Design**: Certified with an understanding of UX principles and methodologies, though not a primary focus area.
 
 
 ## Let's Connect!
-I'm always open to collaborating on projects and innovative ideas. If you're interested in working together or just want to chat tech, feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/raz-yehiel/) or check out my [GitHub portfolio](https://github.com/Raz-y).
-
-
+I'm always eager to collaborate on innovative projects or discuss tech trends. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/raz-yehiel/) or explore my [GitHub repositories](https://github.com/Raz-y).
 
 
 
