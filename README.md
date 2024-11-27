@@ -13,7 +13,7 @@
 
 ## Blogging
 - I write about the things I learned covering topics like backend development, DevOps, and how to leverage tech -	[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@raz.devit)
-- To combine what I like and what I learn I write about the intersection of technology and fitness on my blog [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@fitwtech)
+- To combine what I like and what I learn I write about the intersection of technology and fitness on my blog - [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@fitwtech)
 
 ## I'm Seeking
 - Opportunities to apply my backend and DevOps skills in impactful projects.
