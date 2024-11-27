@@ -2,17 +2,18 @@
 
 ## About Me
 
-🎓 I'm a third-year Computer Science student at the Open University of Israel, passionate about leveraging technology to solve real-world problems. With a solid background in Tier 2 Help Desk and Tier 1 Applicative Support, I excel in problem-solving, customer service, and collaboration.
+🎓 I'm a third-year Computer Science student at the Open University of Israel, trying to leverage technology to solve problems. With a background as a Tier 2 Help Desk and Tier 1 Applicative Support, I excel in problem-solving, customer service, and collaboration.
 
-👨‍💻 My current focus is on mastering Backend Development and DevOps, or as I like to call it, "BackOps"—because who doesn't love a good acronym? I thrive in dynamic, technology-filled environments.
+👨‍💻 My current focus is on mastering Backend Development and DevOps, or as I like to call it, "BackOps"—because we love using acronyms for everything. I thrive in dynamic, technology-filled environments.
 
 ## Current Projects and Learning Focus
 - [Documenting my journey](https://medium.com/@raz.devit) into **Backend Development** with a focus on **Golang**, inspired by the [Backend Developer Roadmap](https://roadmap.sh/backend).
-- Exploring DevOps practices to integrate them with backend development, aiming to build robust, scalable applications.
+- Exploring DevOps practices to integrate them with backend development.
 - Continuing my Computer Science degree with an emphasis on practical, hands-on projects to solidify my understanding of complex systems.
 
 ## Blogging
-- I write about the intersection of technology and fitness on my blog, covering topics like backend development, DevOps, and how to leverage tech to enhance your fitness routine -	[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@raz.devit)
+- I write about the things I learned covering topics like backend development, DevOps, and how to leverage tech -	[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@raz.devit)
+- To combine what I like and what I learn I write about the intersection of technology and fitness on my blog [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@fitwtech)
 
 ## I'm Seeking
 - Opportunities to apply my backend and DevOps skills in impactful projects.
